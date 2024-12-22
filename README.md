@@ -4,10 +4,15 @@
 Perkenalkan nama saya **ahmaddanialhariadi**.\
 
 Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).\
+Saya seorang pelajar yang sangat antusias dengan dunia **web development**. Selama beberapa tahun terakhir, saya telah mempelajari dan mengasah keterampilan saya dalam:  
+- **HTML5** untuk membangun struktur halaman web yang kuat dan modern.  
+- **CSS** untuk menciptakan desain yang estetis dan responsif.  
+- **JavaScript** untuk menambahkan interaktivitas dan fungsionalitas yang dinamis.  
+- **React** untuk mengembangkan antarmuka pengguna yang efisien dan modular.  
 
-Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).\
+Saya percaya bahwa teknologi adalah alat yang kuat untuk menciptakan solusi inovatif. Saat ini, saya sedang mengerjakan berbagai proyek untuk memperdalam pemahaman dan kemampuan saya di bidang ini.  
 
-Saya juga memiliki gelar [Google Associate Android Developer](https://www.credential.net/h5deoi5h) sejak 2019.\
+Jika kamu ingin tahu lebih banyak tentang apa yang saya lakukan atau ingin berkolaborasi, jangan ragu untuk menghubungi saya melalui [LinkedIn](https://www.linkedin.com/) atau melihat karya saya di [GitHub](https://github.com/).  
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/ahmaddanialhariadi/)ku ya.
 <p align="left">
