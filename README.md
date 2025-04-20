@@ -3,7 +3,7 @@
 
 Perkenalkan nama saya **ahmaddanialhariadi**.\
 
-Saya seorang **Front end web developer** di [Dicoding](https://www.dicoding.com/).\
+Saya seorang **Front end web developer** lulusan beasiswa dicoding bangun negeri di [Dicoding](https://www.dicoding.com/).\
 Saya seorang pelajar yang sangat antusias dengan dunia **web development**. Selama beberapa tahun terakhir, saya telah mempelajari dan mengasah keterampilan saya dalam:  
 - **HTML5** untuk membangun struktur halaman web yang kuat dan modern.  
 - **CSS** untuk menciptakan desain yang estetis dan responsif.  
