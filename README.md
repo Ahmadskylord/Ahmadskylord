@@ -1,16 +1,54 @@
+<h1 align="center">👋 Hi, I'm Ahmad Danial Hariadi</h1>
+<p align="center">
+  🚀 Front-End Web Developer | 🎓 Dicoding Bangun Negeri Graduate <br>
+  Passionate about building modern and interactive web experiences.
+</p>
 
-# Halo semua! 
+---
 
-Perkenalkan nama saya **ahmaddanialhariadi**.\
+### 🧑‍💻 About Me
+Saya adalah seorang **Front-End Developer** lulusan program **Beasiswa Dicoding Bangun Negeri**. Saya sangat antusias dalam dunia pengembangan web, dan telah mengasah keterampilan saya dalam:
 
-Saya seorang **Front end web developer** lulusan beasiswa dicoding bangun negeri di [Dicoding](https://www.dicoding.com/).\
-Saya seorang pelajar yang sangat antusias dengan dunia **web development**. Selama beberapa tahun terakhir, saya telah mempelajari dan mengasah keterampilan saya dalam:  
-- **HTML5** untuk membangun struktur halaman web yang kuat dan modern.  
-- **CSS** untuk menciptakan desain yang estetis dan responsif.  
-- **JavaScript** untuk menambahkan interaktivitas dan fungsionalitas yang dinamis.  
-- **React** untuk mengembangkan antarmuka pengguna yang efisien dan modular.  
+- 🔹 **HTML5** – Struktur web yang bersih dan semantik
+- 🔹 **CSS3** – Desain estetis dan responsif
+- 🔹 **JavaScript** – Interaktivitas dinamis
+- 🔹 **React JS** – UI modular dan efisien
 
-Saya percaya bahwa teknologi adalah alat yang kuat untuk menciptakan solusi inovatif. Saat ini, saya sedang mengerjakan berbagai proyek untuk memperdalam pemahaman dan kemampuan saya di bidang ini.  
+Saya percaya bahwa **teknologi adalah alat untuk menciptakan solusi yang berdampak**.
+
+---
+
+### 📌 Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</p>
+
+---
+
+### 📂 Featured Projects
+✨ Lihat beberapa proyek pribadi dan hasil belajar saya di tab **Repositories**.
+
+---
+
+### 📫 Let’s Connect!
+<p>
+  <a href="https://www.linkedin.com/in/USERNAME/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ahmaddanialhariadi@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  Terima kasih sudah mampir ke profil saya! 🌟 <br>
+  Jangan lupa follow kalau kamu suka proyek-proyek saya ya! 🚀
+</p>
 
 Jika kamu ingin tahu lebih banyak tentang apa yang saya lakukan atau ingin berkolaborasi, jangan ragu untuk menghubungi saya melalui [LinkedIn](https://www.linkedin.com/) atau melihat karya saya di [GitHub](https://github.com/).  
 
