@@ -49,7 +49,7 @@ Saya percaya bahwa **kreativitas dan teknologi dapat menciptakan solusi yang ber
   <a href="mailto:ahmaddanihariadi@gmail.com" aria-label="Email Ahmad Danial Hariadi">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https:https://www.instagram.com/danilxyz__/" target="_blank" rel="noopener noreferrer" aria-label="Instagram Ahmad Danial Hariadi">
+  <a href="https:https://www.instagram.com/danilxyz__" target="_blank" rel="noopener noreferrer" aria-label="Instagram Ahmad Danial Hariadi">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://wa.me/6285961165739" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp Ahmad Danial Hariadi">
